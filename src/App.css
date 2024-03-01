@@ -1,0 +1,20 @@
+.gnd{font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 20px;
+}
+.details{
+  font-weight: 400;
+}
+.fullbody{
+  background-color: bisque;
+  padding: 30px;
+  border-radius: 20px;
+}
+.mhead{
+  font-family: "Roboto Slab", serif;
+  letter-spacing: 3px;
+  
+}
+/* .seccont{
+  text-align: start;
+} */
